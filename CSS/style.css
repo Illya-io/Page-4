@@ -1,0 +1,55 @@
+body {
+    background-image: linear-gradient(to top, black, rgb(45, 156, 190), rgb(126, 246, 255));
+    padding-bottom: 23px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    font-size: 28px;
+}
+
+span {
+    color:blueviolet;
+    background-color: aqua;
+    border-radius: 5px;
+    padding: 2px;
+    
+}
+
+main {
+    background-color: rgb(0, 0, 255, 0.35);
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.pp {
+    background-color: black;
+    color: white;
+    box-shadow: 0px 0px 18px black;
+}
+
+.Nav{
+    background-image: linear-gradient(to top, rgb(255, 0, 0), black);
+    width:100px;
+    color: aqua;
+}
+
+nav a {
+    background-color: black;
+    border-radius: 5px;
+    text-decoration: none;
+    color: red;
+    margin-bottom: 20px;
+    display: block;
+    width: 150px;
+    padding: 5px;
+    text-align: center;
+   
+}
+nav{
+    transform: translateX(1350px);
+}
